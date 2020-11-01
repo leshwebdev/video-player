@@ -2,7 +2,7 @@
   "name": "video-player",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{Github-username}.github.io/{Github-repo-name}",
+  "homepage": "http://leshwebdev.github.io/video-player",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
